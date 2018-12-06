@@ -1,0 +1,9 @@
+{
+  "name": "kvify",
+  "version": "1.0.0",
+  "description": "Parse .ini format config files and JSON files with a single function",
+  "main": "kvify.js",
+  "repository": "https://github.com/jazzyjackson/kvify",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "BSD-3-Clause"
+}
